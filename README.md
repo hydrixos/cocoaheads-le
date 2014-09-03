@@ -1,4 +1,4 @@
-cocoaheads-le
-=============
+Cocoaheads Leipzig
+==================
 
-Slides and Examples created for Cocoaheads Leipzig
+This repository contains a collection of all talks given at the Cocoaheads Leipzig meetings.
