@@ -1,0 +1,6 @@
+FRAMEWORK_SEARCH_PATHS = $(inherited) "$(SDKROOT)/Developer/Library/Frameworks"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/KIF" "${PODS_ROOT}/Headers/MBFaker"
+OTHER_CFLAGS = $(inherited) "-isystem${PODS_ROOT}/Headers" "-isystem${PODS_ROOT}/Headers/KIF" "-isystem${PODS_ROOT}/Headers/MBFaker"
+OTHER_LDFLAGS = -ObjC -framework CoreGraphics -framework SenTestingKit
+PODS_ROOT = ${SRCROOT}/Pods

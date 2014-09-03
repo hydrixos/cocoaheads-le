@@ -1,0 +1,15 @@
+platform :ios, "7.0"
+inhibit_all_warnings!
+
+target :AutomationDemo do
+
+    pod 'MBFaker', '~> 0.1.2'
+
+end
+
+
+target :AutomationDemoTests do
+
+    pod 'KIF', '~> 2.0.0'
+
+end
