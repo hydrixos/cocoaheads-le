@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-RandomBrowser-ReactiveCocoa.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-RandomBrowser.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-RandomBrowserTests-ReactiveCocoa.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-RandomBrowserTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>26AD75D226FB40FB8C56BAF6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3F90EB61446C4AB0B9F709C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>754982DE7C4B4DADB9FBACB8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9C9034BDE8A2433C88D41B48</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
