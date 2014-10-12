@@ -12,8 +12,10 @@ This repository contains a collection of all talks given at the Cocoaheads Leipz
 | “[Reactive Cocoa](2014/02/Talk.pdf)”								| [Friedrich Gräter](http://twitter.com/hdrxs)   | 5.2.2014   | [Sample Code](2014/02/Demo)		|
 | “[Testing with KIF-next](2014/01/Talk.pdf)”						| [Gunnar Herzog](http://twitter.com/trispo)     | 8.1.2014   | [Sample Code](2015/01/Demo)		|
 
+----
 
-| 2014 <img width="400px"> | | | | 
+
+| 2013 <img width="400px"> | | | | 
 |-------------------------------------------------------------------|------------------------------------------------|------------|------------------------------------------------------------------|
 | “[TextKit](https://speakerdeck.com/macguru17/hallo-textkit)”		| [Max Seelemann](http://twitter.com/macguru17)  | 4.12.2013  | [Sample Code](https://github.com/macguru/TextKitDemo)			 |
 | “Core Bluetooth”													| [Rico Becker](http://twitter.com/ricobeck)	 | 6.11.2013  | &nbsp;															 |
