@@ -1,6 +1,6 @@
 # Cocoaheads Leipzig
 
-This repository contains a collection of all talks given at the Cocoaheads Leipzig meetings.
+This repository contains a collection of talks given at the Cocoaheads Leipzig meetings.
 
 
 ## Overview
