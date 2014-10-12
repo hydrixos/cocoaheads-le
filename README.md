@@ -5,7 +5,7 @@ This repository contains a collection of all talks given at the Cocoaheads Leipz
 
 ## Overview
 
-| 2014 <img width="400px"> | | | | 
+| 2014 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | | 
 |-------------------------------------------------------------------|------------------------------------------------|------------|---------------------------------|
 | “Haxe” 															| [Juraj Kirchheim](http://twitter.com/back2dos) | 5.5.2014   | &nbsp; 							|
 | “[MVVM with Reactive Cocoa](2014/03/Talk.pdf)”					| [Götz Fabian](http://twitter.com/lclhrst)		 | 5.3.2014   | &nbsp;							|
@@ -15,7 +15,7 @@ This repository contains a collection of all talks given at the Cocoaheads Leipz
 ----
 
 
-| 2013 <img width="400px"> | | | | 
+| 2013 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | | 
 |-------------------------------------------------------------------|------------------------------------------------|------------|------------------------------------------------------------------|
 | “[TextKit](https://speakerdeck.com/macguru17/hallo-textkit)”		| [Max Seelemann](http://twitter.com/macguru17)  | 4.12.2013  | [Sample Code](https://github.com/macguru/TextKitDemo)			 |
 | “Core Bluetooth”													| [Rico Becker](http://twitter.com/ricobeck)	 | 6.11.2013  | &nbsp;															 |
