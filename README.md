@@ -1,6 +1,11 @@
 # Cocoaheads Leipzig
 
-This repository contains a collection of talks given at the [Cocoaheads Leipzig](http://cocoaheads.org/de/Leipzig/index.html) meetings. Follow us on [Twitter](http://twitter.com/cocoaheads_le) for information about upcoming meetings!
+This repository contains a collection of talks given at the [Cocoaheads Leipzig](http://cocoaheads.org/de/Leipzig/index.html) meetings. 
+
+For information about upcoming meetings:
+
+- Follow us on [Twitter](http://twitter.com/cocoaheads_le) 
+- Subscribe our public calendar: `webcal://www.cocoaheads.org/de/Leipzig/events.ics`
 
 
 ## Overview
