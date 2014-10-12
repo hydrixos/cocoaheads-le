@@ -10,7 +10,7 @@ This repository contains a collection of all talks given at the Cocoaheads Leipz
 | “Haxe” 															| [Juraj Kirchheim](http://twitter.com/back2dos) | 5.5.2014   | &nbsp; 							|
 | “[MVVM with Reactive Cocoa](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2014/03/Talk.pdf)”					| [Götz Fabian](http://twitter.com/lclhrst)		 | 5.3.2014   | &nbsp;							|
 | “[Reactive Cocoa](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2014/02/Talk.pdf)”								| [Friedrich Gräter](http://twitter.com/hdrxs)   | 5.2.2014   | [Sample Code](2014/02/Demo)		|
-| “[Testing with KIF-next](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2014/01/Talk.pdf)”						| [Gunnar Herzog](http://twitter.com/trispo)     | 8.1.2014   | [Sample Code](2015/01/Demo)		|
+| “[Testing with KIF-next](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2014/01/Talk.pdf)”						| [Gunnar Herzog](http://twitter.com/trispo)     | 8.1.2014   | [Sample Code](2014/01/Demo)		|
 
 ----
 
