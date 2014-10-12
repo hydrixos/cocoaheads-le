@@ -2,7 +2,7 @@
 
 This repository contains a collection of talks given at the [Cocoaheads Leipzig](http://cocoaheads.org/de/Leipzig/index.html) meetings. 
 
-For information about upcoming meetings:
+For information on upcoming meetings:
 
 - Follow us on [Twitter](http://twitter.com/cocoaheads_le) 
 - Subscribe our public calendar: `webcal://www.cocoaheads.org/de/Leipzig/events.ics`
