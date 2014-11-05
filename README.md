@@ -12,6 +12,7 @@ For information on upcoming meetings:
 
 | 2014 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | | 
 |-------------------------------------------------------------------|------------------------------------------------|------------|---------------------------------|
+| “[Clean Architecture on Cocoa](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2014/11/Talk.pdf)”									| [Markus Müller](http://twitter.com/m_mlr)		 | 6.11.2014  | [Sample Code](https://github.com/mmllr/CleanTweeter)					|
 | “Haxe” 															| [Juraj Kirchheim](http://twitter.com/back2dos) | 5.5.2014   | &nbsp; 							|
 | “[MVVM with Reactive Cocoa](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2014/03/Talk.pdf)”					| [Götz Fabian](http://twitter.com/lclhrst)		 | 5.3.2014   | &nbsp;							|
 | “[Reactive Cocoa](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2014/02/Talk.pdf)”								| [Friedrich Gräter](http://twitter.com/hdrxs)   | 5.2.2014   | [Sample Code](2014/02/Demo)		|
