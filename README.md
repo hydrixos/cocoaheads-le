@@ -12,6 +12,7 @@ For information on upcoming meetings:
 
 | 2015 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | | 
 |-------------------------------------------------------------------|-----------------------------------------------|------------|---------------------------------|
+| “Core Motion”		| [Götz Fabian](http://twitter.com/lclhrst)		 | 15.4.2015  |					|
 | “[AsyncDisplayKit](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2015/02/Talk.pdf)”		| [Friedrich Gräter](http://twitter.com/hdrxs)		 | 4.3.2015  | [Sample Code](2015/02/Demo)					|
 | “[Functional Programming with Swift](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2015/01/Talk.pdf)”		| [Gunnar Herzog](http://twitter.com/trispo)		 | 14.1.2015  | [Sample Code](2015/01/Demo)					|
 
