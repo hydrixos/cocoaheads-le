@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7519.1" systemVersion="14D87h" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="vXZ-lx-hvc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7513.1"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="ViewController" customModule="Album_Fetcher" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="jyV-Pf-zRb"/>
+                        <viewControllerLayoutGuide type="bottom" id="2fi-mo-0CV"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <searchBar contentMode="redraw" searchBarStyle="minimal" placeholder="Artist Name" translatesAutoresizingMaskIntoConstraints="NO" id="PNO-Ta-q1Q">
+                                <rect key="frame" x="16" y="8" width="382" height="44"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <connections>
+                                    <outlet property="delegate" destination="vXZ-lx-hvc" id="LDA-nq-OyC"/>
+                                </connections>
+                            </searchBar>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="pn1-cH-0Nr">
+                                <rect key="frame" x="24" y="60" width="366" height="660"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="PNO-Ta-q1Q" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="8" id="EXF-HH-41B"/>
+                            <constraint firstItem="PNO-Ta-q1Q" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="P5p-hv-w7A"/>
+                            <constraint firstItem="pn1-cH-0Nr" firstAttribute="top" secondItem="PNO-Ta-q1Q" secondAttribute="bottom" constant="8" id="QqO-69-5vu"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="pn1-cH-0Nr" secondAttribute="trailing" constant="8" id="ayb-8S-VOu"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="PNO-Ta-q1Q" secondAttribute="trailing" id="bYQ-eX-ekj"/>
+                            <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="pn1-cH-0Nr" secondAttribute="bottom" constant="16" id="dHp-XK-fIq"/>
+                            <constraint firstItem="pn1-cH-0Nr" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="8" id="zX2-pq-5kh"/>
+                        </constraints>
+                    </view>
+                    <nil key="simulatedStatusBarMetrics"/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
+                    <connections>
+                        <outlet property="containerView" destination="pn1-cH-0Nr" id="hu1-Up-UBs"/>
+                        <outlet property="searchView" destination="PNO-Ta-q1Q" id="aaV-2F-o14"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="408" y="466"/>
+        </scene>
+    </scenes>
+</document>
