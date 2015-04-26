@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6254" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="vXZ-lx-hvc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="ViewController" customModule="CoreImageFilters" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="jyV-Pf-zRb"/>
+                        <viewControllerLayoutGuide type="bottom" id="2fi-mo-0CV"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="140.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="2Ak-15-GUw">
+                                <rect key="frame" x="0.0" y="20" width="600" height="580"/>
+                                <gestureRecognizers/>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="u9U-xw-e2V" appends="YES" id="ygj-Ao-Gni"/>
+                                </connections>
+                            </imageView>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="z66-EN-min">
+                                <rect key="frame" x="290" y="290" width="20" height="20"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="centerY" secondItem="z66-EN-min" secondAttribute="centerY" id="Jdy-a7-IeG"/>
+                            <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="2Ak-15-GUw" secondAttribute="bottom" id="KuA-ch-uRg"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="2Ak-15-GUw" secondAttribute="trailing" constant="-16" id="RAo-dI-2CG"/>
+                            <constraint firstItem="2Ak-15-GUw" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" id="Wb0-Dc-h3r"/>
+                            <constraint firstItem="2Ak-15-GUw" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="-16" id="aaH-5Y-GYU"/>
+                            <constraint firstAttribute="centerX" secondItem="z66-EN-min" secondAttribute="centerX" id="n2i-hT-wfR"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="activityIndicator" destination="z66-EN-min" id="uLB-Jg-br1"/>
+                        <outlet property="imageView" destination="2Ak-15-GUw" id="3Rg-yC-q7f"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+                <tapGestureRecognizer id="u9U-xw-e2V">
+                    <connections>
+                        <action selector="imageTapped:" destination="vXZ-lx-hvc" id="zKf-cK-D1T"/>
+                    </connections>
+                </tapGestureRecognizer>
+            </objects>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="140.jpg" width="800" height="440"/>
+    </resources>
+</document>

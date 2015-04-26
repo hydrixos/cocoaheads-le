@@ -10,6 +10,12 @@ For information on upcoming meetings:
 
 ## Overview
 
+| 2015 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | | 
+|-------------------------------------------------------------------|------------------------------------------------|------------|---------------------------------|
+| “[Functional Programming with Swift](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2015/01/Talk.pdf)”									| [Gunnar Herzog](http://twitter.com/trispo)		 | 14.1.2015  | [Sample Code](https://github.com/mmllr/CleanTweeter)					|
+
+----
+
 | 2014 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | | 
 |-------------------------------------------------------------------|------------------------------------------------|------------|---------------------------------|
 | “[Clean Architecture on Cocoa](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2014/11/Talk.pdf)”									| [Markus Müller](http://twitter.com/m_mlr)		 | 6.11.2014  | [Sample Code](https://github.com/mmllr/CleanTweeter)					|

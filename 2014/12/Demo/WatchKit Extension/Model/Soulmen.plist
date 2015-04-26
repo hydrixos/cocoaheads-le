@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Rebekka</key>
+	<string>,r3,,b6,,,,,r11,,r14,,,,b18,,r21,,b23</string>
+	<key>Lina</key>
+	<string>,b2,,r7,,,,b9,,r12,,b15,,,,r18,,b22,</string>
+	<key>Götz</key>
+	<string>r2,,b5,,r8,,,,,b12,,r15,,,,,b20,,r23</string>
+	<key>Friedrich</key>
+	<string>,b3,,r6,,,,r9,,b13,,b16,,,,b19,,,r24</string>
+	<key>Frank</key>
+	<string>r1,,r4,,b8,,,,b11,,b14,,,,b17,,r20,,</string>
+	<key>Lucas</key>
+	<string>,,b4,,b7,,,,r10,,,r16,,,,r19,,b21,b24</string>
+	<key>Max</key>
+	<string>b1,,,r5,,,,b10,,,r13,,,,r17,,,r22,</string>
+</dict>
+</plist>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>61D66BF9-2A2E-40EB-BDD3-0B5DC0A5416D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CoreImageFilters</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4343D776079308C3DB97AF7D2F6C957B227DB3FD</key>
+		<string>github.com:hydrixos/cocoaheads-le.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>2015/02/Demo/1 - Start/CoreImageFilters.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4343D776079308C3DB97AF7D2F6C957B227DB3FD</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:hydrixos/cocoaheads-le.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4343D776079308C3DB97AF7D2F6C957B227DB3FD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4343D776079308C3DB97AF7D2F6C957B227DB3FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocoaheads-le</string>
+		</dict>
+	</array>
+</dict>
+</plist>
