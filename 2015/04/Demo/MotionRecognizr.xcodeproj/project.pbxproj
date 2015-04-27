@@ -1,0 +1,357 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CF3981081AEE1ACF00ACFB6D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3981031AEE1ACF00ACFB6D /* AppDelegate.m */; };
+		CF3981121AEE1AEB00ACFB6D /* MotionRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = CF39810D1AEE1AEB00ACFB6D /* MotionRecognizer.m */; };
+		CF3981131AEE1AEB00ACFB6D /* SquatRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = CF39810F1AEE1AEB00ACFB6D /* SquatRecognizer.m */; };
+		CF3981141AEE1AEB00ACFB6D /* TwistRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3981111AEE1AEB00ACFB6D /* TwistRecognizer.m */; };
+		CF3981171AEE1B0600ACFB6D /* SlidingWindowArray.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3981161AEE1B0600ACFB6D /* SlidingWindowArray.m */; };
+		CF39811A1AEE1B2100ACFB6D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CF3981181AEE1B2100ACFB6D /* LaunchScreen.xib */; };
+		CF39811B1AEE1B2100ACFB6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF3981191AEE1B2100ACFB6D /* Main.storyboard */; };
+		CF39811D1AEE1B2D00ACFB6D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF39811C1AEE1B2D00ACFB6D /* Images.xcassets */; };
+		CF3981221AEE1B4A00ACFB6D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CF39811F1AEE1B4A00ACFB6D /* main.m */; };
+		CF3981281AEE1BF700ACFB6D /* MotionCounterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3981251AEE1BF700ACFB6D /* MotionCounterViewController.m */; };
+		CF3981291AEE1BF700ACFB6D /* MotionTypeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3981271AEE1BF700ACFB6D /* MotionTypeViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		CF3981021AEE1ACF00ACFB6D /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = MotionRecognizr/AppDelegate.h; sourceTree = SOURCE_ROOT; };
+		CF3981031AEE1ACF00ACFB6D /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = MotionRecognizr/AppDelegate.m; sourceTree = SOURCE_ROOT; };
+		CF39810B1AEE1AEB00ACFB6D /* MotionRecognizer_Subclassing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MotionRecognizer_Subclassing.h; path = MotionRecognizr/MotionRecognizer_Subclassing.h; sourceTree = SOURCE_ROOT; };
+		CF39810C1AEE1AEB00ACFB6D /* MotionRecognizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MotionRecognizer.h; path = MotionRecognizr/MotionRecognizer.h; sourceTree = SOURCE_ROOT; };
+		CF39810D1AEE1AEB00ACFB6D /* MotionRecognizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MotionRecognizer.m; path = MotionRecognizr/MotionRecognizer.m; sourceTree = SOURCE_ROOT; };
+		CF39810E1AEE1AEB00ACFB6D /* SquatRecognizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SquatRecognizer.h; path = MotionRecognizr/SquatRecognizer.h; sourceTree = SOURCE_ROOT; };
+		CF39810F1AEE1AEB00ACFB6D /* SquatRecognizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SquatRecognizer.m; path = MotionRecognizr/SquatRecognizer.m; sourceTree = SOURCE_ROOT; };
+		CF3981101AEE1AEB00ACFB6D /* TwistRecognizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TwistRecognizer.h; path = MotionRecognizr/TwistRecognizer.h; sourceTree = SOURCE_ROOT; };
+		CF3981111AEE1AEB00ACFB6D /* TwistRecognizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TwistRecognizer.m; path = MotionRecognizr/TwistRecognizer.m; sourceTree = SOURCE_ROOT; };
+		CF3981151AEE1B0600ACFB6D /* SlidingWindowArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SlidingWindowArray.h; path = MotionRecognizr/Utilities/SlidingWindowArray.h; sourceTree = SOURCE_ROOT; };
+		CF3981161AEE1B0600ACFB6D /* SlidingWindowArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SlidingWindowArray.m; path = MotionRecognizr/Utilities/SlidingWindowArray.m; sourceTree = SOURCE_ROOT; };
+		CF3981181AEE1B2100ACFB6D /* LaunchScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = LaunchScreen.xib; path = MotionRecognizr/Interface/LaunchScreen.xib; sourceTree = SOURCE_ROOT; };
+		CF3981191AEE1B2100ACFB6D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = MotionRecognizr/Interface/Main.storyboard; sourceTree = SOURCE_ROOT; };
+		CF39811C1AEE1B2D00ACFB6D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = MotionRecognizr/Images.xcassets; sourceTree = SOURCE_ROOT; };
+		CF39811E1AEE1B4A00ACFB6D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MotionRecognizr/Info.plist; sourceTree = SOURCE_ROOT; };
+		CF39811F1AEE1B4A00ACFB6D /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = MotionRecognizr/main.m; sourceTree = SOURCE_ROOT; };
+		CF3981201AEE1B4A00ACFB6D /* PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PrefixHeader.pch; path = MotionRecognizr/PrefixHeader.pch; sourceTree = SOURCE_ROOT; };
+		CF3981241AEE1BF700ACFB6D /* MotionCounterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MotionCounterViewController.h; sourceTree = "<group>"; };
+		CF3981251AEE1BF700ACFB6D /* MotionCounterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MotionCounterViewController.m; sourceTree = "<group>"; };
+		CF3981261AEE1BF700ACFB6D /* MotionTypeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MotionTypeViewController.h; sourceTree = "<group>"; };
+		CF3981271AEE1BF700ACFB6D /* MotionTypeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MotionTypeViewController.m; sourceTree = "<group>"; };
+		CFF0B6AB1ADC5DAC008AD921 /* MotionRecognizr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MotionRecognizr.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CFF0B6A81ADC5DAC008AD921 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CF0724381ADE5E7C00206BFD /* Motion Recognizer */ = {
+			isa = PBXGroup;
+			children = (
+				CF39810C1AEE1AEB00ACFB6D /* MotionRecognizer.h */,
+				CF39810B1AEE1AEB00ACFB6D /* MotionRecognizer_Subclassing.h */,
+				CF39810D1AEE1AEB00ACFB6D /* MotionRecognizer.m */,
+				CF39810E1AEE1AEB00ACFB6D /* SquatRecognizer.h */,
+				CF39810F1AEE1AEB00ACFB6D /* SquatRecognizer.m */,
+				CF3981101AEE1AEB00ACFB6D /* TwistRecognizer.h */,
+				CF3981111AEE1AEB00ACFB6D /* TwistRecognizer.m */,
+			);
+			name = "Motion Recognizer";
+			sourceTree = "<group>";
+		};
+		CF0724391ADE5EA000206BFD /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				CF3981151AEE1B0600ACFB6D /* SlidingWindowArray.h */,
+				CF3981161AEE1B0600ACFB6D /* SlidingWindowArray.m */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
+		CF07243A1ADE5EAD00206BFD /* Interface */ = {
+			isa = PBXGroup;
+			children = (
+				CF3981181AEE1B2100ACFB6D /* LaunchScreen.xib */,
+				CF3981191AEE1B2100ACFB6D /* Main.storyboard */,
+			);
+			name = Interface;
+			sourceTree = "<group>";
+		};
+		CF3981231AEE1BF700ACFB6D /* View Controller */ = {
+			isa = PBXGroup;
+			children = (
+				CF3981241AEE1BF700ACFB6D /* MotionCounterViewController.h */,
+				CF3981251AEE1BF700ACFB6D /* MotionCounterViewController.m */,
+				CF3981261AEE1BF700ACFB6D /* MotionTypeViewController.h */,
+				CF3981271AEE1BF700ACFB6D /* MotionTypeViewController.m */,
+			);
+			name = "View Controller";
+			path = "MotionRecognizr/View Controller";
+			sourceTree = SOURCE_ROOT;
+		};
+		CFF0B6A21ADC5DAC008AD921 = {
+			isa = PBXGroup;
+			children = (
+				CFF0B6AD1ADC5DAC008AD921 /* MotionRecognizr */,
+				CFF0B6AC1ADC5DAC008AD921 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CFF0B6AC1ADC5DAC008AD921 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CFF0B6AB1ADC5DAC008AD921 /* MotionRecognizr.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CFF0B6AD1ADC5DAC008AD921 /* MotionRecognizr */ = {
+			isa = PBXGroup;
+			children = (
+				CF3981021AEE1ACF00ACFB6D /* AppDelegate.h */,
+				CF3981031AEE1ACF00ACFB6D /* AppDelegate.m */,
+				CF3981231AEE1BF700ACFB6D /* View Controller */,
+				CF0724381ADE5E7C00206BFD /* Motion Recognizer */,
+				CF0724391ADE5EA000206BFD /* Utilities */,
+				CF07243A1ADE5EAD00206BFD /* Interface */,
+				CFF0B6AE1ADC5DAC008AD921 /* Supporting Files */,
+			);
+			name = MotionRecognizr;
+			path = Squats;
+			sourceTree = "<group>";
+		};
+		CFF0B6AE1ADC5DAC008AD921 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CF39811C1AEE1B2D00ACFB6D /* Images.xcassets */,
+				CF39811E1AEE1B4A00ACFB6D /* Info.plist */,
+				CF39811F1AEE1B4A00ACFB6D /* main.m */,
+				CF3981201AEE1B4A00ACFB6D /* PrefixHeader.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CFF0B6AA1ADC5DAC008AD921 /* MotionRecognizr */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CFF0B6CE1ADC5DAC008AD921 /* Build configuration list for PBXNativeTarget "MotionRecognizr" */;
+			buildPhases = (
+				CFF0B6A71ADC5DAC008AD921 /* Sources */,
+				CFF0B6A81ADC5DAC008AD921 /* Frameworks */,
+				CFF0B6A91ADC5DAC008AD921 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MotionRecognizr;
+			productName = Squats;
+			productReference = CFF0B6AB1ADC5DAC008AD921 /* MotionRecognizr.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CFF0B6A31ADC5DAC008AD921 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+				ORGANIZATIONNAME = "The Soulmen";
+				TargetAttributes = {
+					CFF0B6AA1ADC5DAC008AD921 = {
+						CreatedOnToolsVersion = 6.3;
+					};
+				};
+			};
+			buildConfigurationList = CFF0B6A61ADC5DAC008AD921 /* Build configuration list for PBXProject "MotionRecognizr" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CFF0B6A21ADC5DAC008AD921;
+			productRefGroup = CFF0B6AC1ADC5DAC008AD921 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CFF0B6AA1ADC5DAC008AD921 /* MotionRecognizr */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CFF0B6A91ADC5DAC008AD921 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF39811A1AEE1B2100ACFB6D /* LaunchScreen.xib in Resources */,
+				CF39811D1AEE1B2D00ACFB6D /* Images.xcassets in Resources */,
+				CF39811B1AEE1B2100ACFB6D /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CFF0B6A71ADC5DAC008AD921 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF3981171AEE1B0600ACFB6D /* SlidingWindowArray.m in Sources */,
+				CF3981281AEE1BF700ACFB6D /* MotionCounterViewController.m in Sources */,
+				CF3981081AEE1ACF00ACFB6D /* AppDelegate.m in Sources */,
+				CF3981121AEE1AEB00ACFB6D /* MotionRecognizer.m in Sources */,
+				CF3981291AEE1BF700ACFB6D /* MotionTypeViewController.m in Sources */,
+				CF3981131AEE1AEB00ACFB6D /* SquatRecognizer.m in Sources */,
+				CF3981221AEE1B4A00ACFB6D /* main.m in Sources */,
+				CF3981141AEE1AEB00ACFB6D /* TwistRecognizer.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		CFF0B6CC1ADC5DAC008AD921 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		CFF0B6CD1ADC5DAC008AD921 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CFF0B6CF1ADC5DAC008AD921 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MotionRecognizr/PrefixHeader.pch;
+				INFOPLIST_FILE = MotionRecognizr/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		CFF0B6D01ADC5DAC008AD921 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MotionRecognizr/PrefixHeader.pch;
+				INFOPLIST_FILE = MotionRecognizr/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CFF0B6A61ADC5DAC008AD921 /* Build configuration list for PBXProject "MotionRecognizr" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CFF0B6CC1ADC5DAC008AD921 /* Debug */,
+				CFF0B6CD1ADC5DAC008AD921 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CFF0B6CE1ADC5DAC008AD921 /* Build configuration list for PBXNativeTarget "MotionRecognizr" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CFF0B6CF1ADC5DAC008AD921 /* Debug */,
+				CFF0B6D01ADC5DAC008AD921 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CFF0B6A31ADC5DAC008AD921 /* Project object */;
+}
