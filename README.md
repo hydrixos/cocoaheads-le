@@ -14,7 +14,7 @@ For information on upcoming meetings:
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
 | [“UI-Testing mit Xcode 7”](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2016/01/Talk.pdf)					| [Markus Müller](http://twitter.com/m_mlr)		 | 5.1.2016  |	|
 | “App-Analytics mit Piwik”																							| [Rico Becker](http://twitter.com/ricobeck)	 | 11.2.2016 | |
-| “Custom Layouts mit UICollectionView”		| [Max Seelemann](http://twitter.com/macguru17)  | 1.3.2016 | [Sample Code](https://github.com/hydrixos/cocoaheads-le/tree/master/2015/01/Demo) |
+| “Custom Layouts mit UICollectionView”		| [Max Seelemann](http://twitter.com/macguru17)  | 1.3.2016 | [Sample Code](2015/03/Demo) |
 
 ----
 
@@ -26,7 +26,7 @@ For information on upcoming meetings:
 | “[Reactive Cocoa 3](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2015/09/Talk.pdf)”		| Torsten Lehmann		 | 2.9.2015  |	[Sample Code](2015/09/Demo)	|
 | “[Core Motion](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2015/04/Talk.pdf)”		| [Götz Fabian](http://twitter.com/lclhrst)		 | 15.4.2015  |	[Sample Code](2015/04/Demo)	|
 | “[AsyncDisplayKit](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2015/02/Talk.pdf)”		| [Friedrich Gräter](http://twitter.com/hdrxs)		 | 4.3.2015  | [Sample Code](2015/02/Demo)					|
-| “[Functional Programming with Swift](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2015/01/Talk.pdf)”		| [Gunnar Herzog](http://twitter.com/trispo)		 | 14.1.2015  | [Sample Code](2015/03/Demo)					|
+| “[Functional Programming with Swift](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2015/01/Talk.pdf)”		| [Gunnar Herzog](http://twitter.com/trispo)		 | 14.1.2015  | [Sample Code](2015/01/Demo)					|
 
 ----
 
