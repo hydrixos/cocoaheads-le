@@ -14,7 +14,7 @@ For information on upcoming meetings:
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
 | [“UI-Testing mit Xcode 7”](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2016/01/Talk.pdf)					| [Markus Müller](http://twitter.com/m_mlr)		 | 5.1.2016  |	|
 | “App-Analytics mit Piwik”																							| [Rico Becker](http://twitter.com/ricobeck)	 | 11.2.2016 | |
-| “Custom Layouts mit UICollectionView”		| [Max Seelemann](http://twitter.com/macguru17)  | 1.3.2016 | [Sample Code](2015/03/Demo) |
+| “Custom Layouts mit UICollectionView”		| [Max Seelemann](http://twitter.com/macguru17)  | 1.3.2016 | [Sample Code](2016/03/Demo) |
 
 ----
 
