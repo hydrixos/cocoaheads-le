@@ -26,7 +26,7 @@ For information on upcoming meetings:
 | “[Reactive Cocoa 3](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2015/09/Talk.pdf)”		| Torsten Lehmann		 | 2.9.2015  |	[Sample Code](2015/09/Demo)	|
 | “[Core Motion](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2015/04/Talk.pdf)”		| [Götz Fabian](http://twitter.com/lclhrst)		 | 15.4.2015  |	[Sample Code](2015/04/Demo)	|
 | “[AsyncDisplayKit](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2015/02/Talk.pdf)”		| [Friedrich Gräter](http://twitter.com/hdrxs)		 | 4.3.2015  | [Sample Code](2015/02/Demo)					|
-| “[Functional Programming with Swift](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2015/01/Talk.pdf)”		| [Gunnar Herzog](http://twitter.com/trispo)		 | 14.1.2015  | [Sample Code](2015/01/Demo)					|
+| “[Functional Programming with Swift](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2015/01/Talk.pdf)”		| [Gunnar Herzog](http://twitter.com/trispo)		 | 14.1.2015  | [Sample Code](2015/03/Demo)					|
 
 ----
 
