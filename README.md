@@ -15,6 +15,10 @@ For information on upcoming meetings:
 | [“UI-Testing mit Xcode 7”](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2016/01/Talk.pdf)					| [Markus Müller](http://twitter.com/m_mlr)		 | 5.1.2016  |	|
 | “App-Analytics mit Piwik”																							| [Rico Becker](http://twitter.com/ricobeck)	 | 11.2.2016 | |
 | “Custom Layouts mit UICollectionView”		| [Max Seelemann](http://twitter.com/macguru17)  | 1.3.2016 | [Sample Code](2016/03/Demo) |
+| “Multi-peer Connectivity”		| [Patrick Reichelt](http://twitter.com/i_codemonkey)  | 3.5.2016 | |
+| [“Hinter den Kulissen von GIT”](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2016/06/Talk.pdf)		| [Friedrich Gräter](http://twitter.com/hdrxs)  | 7.6.2016 ||
+| “Accessibility mit VoiceOver”		| [Lucas Hauswald](http://twitter.com/ancro)  | 30.8.2016 | |
+| [“Error-Handling Konzepte in Swift”](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2016/10/Talk.pdf)		| Torsten Lehmann | 4.10.2016 | [Sample Code](2016/10/Demo) |
 
 ----
 
