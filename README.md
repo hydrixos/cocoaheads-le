@@ -12,7 +12,7 @@ For information on upcoming meetings:
 
 | 2016 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | | 
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
-| “3D Grafik mit OpenGL und Metal”	| [Markus Müller](http://twitter.com/m_mlr) | 8.11.2016 | [Sample Code](https://github.com/mmllr/Renderer) |
+| “3D Grafik selbstgemacht”	| [Markus Müller](http://twitter.com/m_mlr) | 8.11.2016 | [Sample Code](https://github.com/mmllr/Renderer) |
 | [“Error-Handling Konzepte in Swift”](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2016/10/Talk.pdf)		| Torsten Lehmann | 4.10.2016 | [Sample Code](2016/10/Demo) |
 | “Accessibility mit VoiceOver”		| [Lucas Hauswald](http://twitter.com/ancro)  | 30.8.2016 | |
 | [“Hinter den Kulissen von GIT”](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2016/06/Talk.pdf)		| [Friedrich Gräter](http://twitter.com/hdrxs)  | 7.6.2016 ||
