@@ -1,16 +1,25 @@
 # Cocoaheads Leipzig
 
-This repository contains a collection of talks given at the [Cocoaheads Leipzig](http://cocoaheads.org/de/Leipzig/index.html) meetings. 
+This repository contains a collection of talks given at the [Cocoaheads Leipzig](http://cocoaheads.org/de/Leipzig/index.html) meetings.
 
 For information on upcoming meetings:
 
-- Follow us on [Twitter](http://twitter.com/cocoaheads_le) 
+- Follow us on [Twitter](http://twitter.com/cocoaheads_le)
 - Subscribe our public calendar: `webcal://www.cocoaheads.org/de/Leipzig/events.ics`
 
 
 ## Overview
 
-| 2016 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | | 
+| 2017 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
+|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| “[React Native](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/08/Talk.pdf)“ | Torsten Lehmann | 8.8.2017 | [Sample Code](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/08/Talk.zip) |
+| “StoreKit“ | Friedrich Gräter | 4.7.2017 |
+| “Bastelprojekte“ | | 2.5.2017 |
+| “Scripting Bridge“ | Friedrich Gräter | 10.4.2017 |
+| “I Promise you a Future“ | [Alex Rupsch](http://twitter.com/asofacoder) | 7.2.2017 |
+
+
+| 2016 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
 | “3D Grafik selbstgemacht”	| [Markus Müller](http://twitter.com/m_mlr) | 8.11.2016 | [Sample Code](https://github.com/mmllr/Renderer) |
 | [“Error-Handling Konzepte in Swift”](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2016/10/Talk.pdf)		| Torsten Lehmann | 4.10.2016 | [Sample Code](2016/10/Demo) |
@@ -24,7 +33,7 @@ For information on upcoming meetings:
 
 ----
 
-| 2015 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | | 
+| 2015 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------|---------------------------------|
 | “Crashes finden durch Fuzzing mit AFL”		| [Alex Rupsch](http://twitter.com/asofacoder)		 | 2.12.2015  |	|
 | “Unit Testing unter Swift mit Dobby”		| [Susann Proszak](http://twitter.com/s_proszak_)	 | 4.11.2015  |	|
@@ -36,7 +45,7 @@ For information on upcoming meetings:
 
 ----
 
-| 2014 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | | 
+| 2014 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|------------------------------------------------|------------|---------------------------------|
 | “[Watch Kit](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2014/12/Talk.pdf)” 									| [Friedrich Gräter](http://twitter.com/hdrxs)      | 3.12.2014   | [Sample Code](2014/12/Demo) 	|
 | “[Clean Architecture on Cocoa](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2014/11/Talk.pdf)”			    | [Markus Müller](http://twitter.com/m_mlr)		 | 6.11.2014  | [Sample Code](https://github.com/mmllr/CleanTweeter)					|
@@ -48,7 +57,7 @@ For information on upcoming meetings:
 ----
 
 
-| 2013 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | | 
+| 2013 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|------------------------------------------------|------------|------------------------------------------------------------------|
 | “[TextKit](https://speakerdeck.com/macguru17/hallo-textkit)”		| [Max Seelemann](http://twitter.com/macguru17)  | 4.12.2013  | [Sample Code](https://github.com/macguru/TextKitDemo)			 |
 | “Core Bluetooth”													| [Rico Becker](http://twitter.com/ricobeck)	 | 6.11.2013  | &nbsp;															 |
