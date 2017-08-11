@@ -13,9 +13,9 @@ For information on upcoming meetings:
 | 2017 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
 | “[React Native](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/08/Talk.pdf)“ | Torsten Lehmann | 8.8.2017 | [Sample Code](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/08/Talk.zip) |
-| “StoreKit“ | Friedrich Gräter | 4.7.2017 |
+| “StoreKit“ | [Friedrich Gräter](http://twitter.com/hdrxs) | 4.7.2017 |
 | “Bastelprojekte“ | | 2.5.2017 |
-| “Scripting Bridge“ | Friedrich Gräter | 10.4.2017 |
+| “Scripting Bridge“ | [Friedrich Gräter](http://twitter.com/hdrxs) | 10.4.2017 |
 | “I Promise you a Future“ | [Alex Rupsch](http://twitter.com/asofacoder) | 7.2.2017 |
 
 
