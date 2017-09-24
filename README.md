@@ -12,6 +12,7 @@ For information on upcoming meetings:
 
 | 2017 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| “[Audio-App-Programmierung](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/09/Talk.pdf)“ | Martin Finke | 6.9.2017 | [Sample Code](https://github.com/martinfinke/SpaceBass/tree/develop) |
 | “[React Native](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/08/Talk.pdf)“ | Torsten Lehmann | 8.8.2017 | [Sample Code](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/08/Talk.zip) |
 | “StoreKit“ | [Friedrich Gräter](http://twitter.com/hdrxs) | 4.7.2017 |
 | “Bastelprojekte“ | | 2.5.2017 |
