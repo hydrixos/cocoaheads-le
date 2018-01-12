@@ -10,6 +10,10 @@ For information on upcoming meetings:
 
 ## Overview
 
+| 2018 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
+|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| “[Einführung in CloudKit](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2018/01/Talk.pdf)“ | [Friedrich Ruynat](http://twitter.com/hdrxs) | 11.1.2018 |  |
+
 | 2017 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
 | “[Clean Architectur in Production](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/11/Talk.pdf)“ | [Markus Müller](http://twitter.com/m_mlr) | 9.11.2017 | [App](https://www.cantatasapp.com) |
