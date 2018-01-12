@@ -12,6 +12,7 @@ For information on upcoming meetings:
 
 | 2017 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| “[Clean Architectur in Production](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/11/Talk.pdf)“ | [Markus Müller](http://twitter.com/m_mlr) | 9.11.2017 | [App](https://www.cantatasapp.com) |
 | “[CoreML – Eine kleine Einführung](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/10/Talk.pdf)“ | [Max Langer](http://twitter.com/mangerlahn) | 12.10.2017 |  |
 | “[Audio-App-Programmierung](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/09/Talk.pdf)“ | Martin Finke | 6.9.2017 | [Sample Code](https://github.com/martinfinke/SpaceBass/tree/develop) |
 | “[React Native](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/08/Talk.pdf)“ | Torsten Lehmann | 8.8.2017 | [Sample Code](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/08/Talk.zip) |
