@@ -13,6 +13,14 @@ For information on upcoming meetings:
 | 2018 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
 | “[Einführung in CloudKit](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2018/01/Talk.pdf)“ | [Friedrich Ruynat](http://twitter.com/hdrxs) | 11.1.2018 |  |
+| “Überraschungsthema” |  | 8.2.2018 |  |
+| “OSLog” | [Alex Rupsch](http://twitter.com/asofacoder)  | 12.4.2018 |  |
+| “Reverse Engineering mit Hopper” | [Max Seelemann](http://twitter.com/macguru17)  | 17.5.2018 |  |
+| “WWDC Keynote” |  | 4.6.2018 |  |
+| Ohne Vortrag |  | 12.7.2018 |  |
+| “iPhone Event” |  | 12.9.2018 |  |
+| “Überblick zu Android Entwicklung” | [Markus Müller](http://twitter.com/m_mlr)  | 11.10.2018 |  |
+| “[Dark Mode unter macOS 10.14](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2018/11/Talk.pdf)” | Florian Lücke  | 8.11.2018 | [Sample Code](2018/11/Demo)  |
 
 | 2017 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
