@@ -4,27 +4,85 @@ This repository contains a collection of talks given at the [Cocoaheads Leipzig]
 
 For information on upcoming meetings:
 
-- Follow us on [Twitter](http://twitter.com/cocoaheads_le)
+- Follow us on [Mastodon](https://objc.social/@cocoaheads_le)
 - Subscribe our public calendar: `webcal://www.cocoaheads.org/de/Leipzig/events.ics`
 
 
 ## Overview
 
+| 2024 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
+|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| “[Swift auf dem Playdate](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2024/05/Talk.pdf)” | [Rico Becker](https://mastodon.social/@ricobeck) | 16.5.2024 | |
+| “TCA Revisted” | [Markus Müller](https://mastodon.social/@m_mlr) | 8.4.2024 | [Sample Code](https://github.com/mmllr/TalkingHeadsRevisited) |
+| Cocoaheads Remote – Mixed Bag | | 14.3.2024 | |
+| “Swift auf dem Server mit Vapor“ | Anatol Mayen | 11.1.2024 | |
+| “Swift Concurrency” | [Friedrich Ruynat](https://objc.social/@hdrxs) | 11.1.2024 | |
+
+| 2023 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
+|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| “Showcase: Micromobility App with KMM & SwiftUI/Jetpack Compose” | Jonas Vogel | 13.4.2023 |  |
+| “[10 Years Cocoaheads Leipzig](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2023/10/Talk.pdf)” | [Friedrich Ruynat](https://objc.social/@hdrxs) | 12.10.2023 |  |
+| “Tour durch die Ulysses IT – Teil 2” | [Friedrich Ruynat](https://objc.social/@hdrxs) | 13.4.2023 |  |
+| “Tour durch die Ulysses IT – Teil 1” | [Friedrich Ruynat](https://objc.social/@hdrxs) | 9.2.2023 |  |
+| “Jetpack Compose” | [Markus Müller](https://mastodon.social/@m_mlr) | 12.1.2023 | [Sample Code](https://github.com/mmllr/TalkingHeads) |
+
+| 2022 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
+|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| “Gebäudeautomatisierung” | [Max Seelemann](https://objc.social/@macguru17) | 8.12.2022 |  |
+| “Wie man VPN-Clients sandboxed” | Torsten Lehmann | 12.5.2022 |  |
+| “Swift Composable Architecture – Teil 2” | [Markus Müller](https://mastodon.social/@m_mlr) | 12.5.2022 |  |
+| “Swift Composable Architecture – Teil 1” | [Markus Müller](https://mastodon.social/@m_mlr) | 14.4.2022 |  |
+| “Bluetooth-LE Reverse Engineering” | [Rico Becker](https://mastodon.social/@ricobeck) | 10.3.2022 |  |
+| “Shortcuts Integration” | [Friedrich Ruynat](https://objc.social/@hdrxs) | 10.2.2022 |  |
+| “Text Selection Views” | [Max Seelemann](https://objc.social/@macguru17) | 13.1.2022 |  |
+
+
+| 2021 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
+|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| Cocoaheads Remote – Mixed Bag | | 9.12.2021 | |
+| Cocoaheads Remote – Mixed Bag | | 11.11.2021 | |
+| WWDC Roundup | [Friedrich Ruynat](https://objc.social/@hdrxs) | 10.6.2021 | |
+| Cocoaheads Remote – Mixed Bag | | 15.4.2021 | |
+| Cocoaheads Remote – Mixed Bag | | 11.3.2021 | |
+| Cocoaheads Remote – Mixed Bag | | 11.2.2021 | |
+| Cocoaheads Remote – Mixed Bag | | 14.1.2021 | |
+
+| 2020 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
+|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| Cocoaheads Remote – Mixed Bag | | 10.12.2020 | |
+| Cocoaheads Remote – Mixed Bag | | 12.11.2020 | |
+| WWDC Roundup | [Friedrich Ruynat](https://objc.social/@hdrxs) | 9.7.2020 | |
+| Cocoaheads Remote – Mixed Bag | | 14.5.2020 | |
+| “GraphQL” | Torsten Lehmann | 12.3.2020 | |
+| “Function Builder” | Torsten Lehmann | 9.1.2020 | |
+
+| 2019 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
+|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| Swift Package Manager | Torsten Lehmann | 14.11.2019 ||
+| “[Shape-Up: Projekte ohne Sprints](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2019/10/Talk.pdf)” | [Friedrich Ruynat](https://objc.social/@hdrxs) | 10.10.2019 ||
+| WWDC-Roundup| [Friedrich Ruynat](https://objc.social/@hdrxs) | 11.7.2019 ||
+| “MD/DC oder wie die NASA Software tested” | [Max Seelemann](https://objc.social/@macguru17) | 11.4.2019 ||
+| “RxSwift und RxCocoa” | Torsten Lehmann, Alex Rupsch | 11.4.2019 ||
+| “Property-based Testing” | Torsten Lehmann | 14.3.2019 ||
+| “Anzeigeprimitiven” | [Max Langer](https://max.codes) | 14.2.2019 ||
+| “ARKit 2” | [Götz Fabian](https://objc.social/@goetz) | 10.1.2019 ||
+
+
 | 2018 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
-| “[Einführung in CloudKit](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2018/01/Talk.pdf)“ | [Friedrich Ruynat](http://twitter.com/hdrxs) | 11.1.2018 |  |
-| “Überraschungsthema” |  | 8.2.2018 |  |
-| “OSLog” | [Alex Rupsch](http://twitter.com/asofacoder)  | 12.4.2018 |  |
-| “Reverse Engineering mit Hopper” | [Max Seelemann](http://twitter.com/macguru17)  | 17.5.2018 |  |
-| “WWDC Keynote” |  | 4.6.2018 |  |
-| Ohne Vortrag |  | 12.7.2018 |  |
-| “iPhone Event” |  | 12.9.2018 |  |
-| “Überblick zu Android Entwicklung” | [Markus Müller](http://twitter.com/m_mlr)  | 11.10.2018 |  |
 | “[Dark Mode unter macOS 10.14](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2018/11/Talk.pdf)” | Florian Lücke  | 8.11.2018 | [Sample Code](2018/11/Demo)  |
+| “Überblick zu Android Entwicklung” | [Markus Müller](http://twitter.com/m_mlr)  | 11.10.2018 |  |
+| iPhone Event |  | 12.9.2018 |  |
+| Ohne Vortrag |  | 12.7.2018 |  |
+| WWDC Keynote |  | 4.6.2018 |  |
+| “Reverse Engineering mit Hopper” | [Max Seelemann](http://twitter.com/macguru17)  | 17.5.2018 |  |
+| “OSLog” | [Alex Rupsch](http://twitter.com/asofacoder)  | 12.4.2018 |  |
+| “Überraschungsthema” |  | 8.2.2018 |  |
+| “[Einführung in CloudKit](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2018/01/Talk.pdf)“ | [Friedrich Ruynat](http://twitter.com/hdrxs) | 11.1.2018 |  |
 
 | 2017 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
-| “[Clean Architectur in Production](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/11/Talk.pdf)“ | [Markus Müller](http://twitter.com/m_mlr) | 9.11.2017 | [App](https://www.cantatasapp.com) |
+| “[Clean Architecture in Production](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/11/Talk.pdf)“ | [Markus Müller](http://twitter.com/m_mlr) | 9.11.2017 | [App](https://www.cantatasapp.com) |
 | “[CoreML – Eine kleine Einführung](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/10/Talk.pdf)“ | [Max Langer](http://twitter.com/mangerlahn) | 12.10.2017 |  |
 | “[Audio-App-Programmierung](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/09/Talk.pdf)“ | Martin Finke | 6.9.2017 | [Sample Code](https://github.com/martinfinke/SpaceBass/tree/develop) |
 | “[React Native](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/08/Talk.pdf)“ | Torsten Lehmann | 8.8.2017 | [Sample Code](https://cdn.rawgit.com/hydrixos/cocoaheads-le/master/2017/08/Talk.zip) |
