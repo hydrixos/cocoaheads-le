@@ -12,6 +12,8 @@ For information on upcoming meetings:
 
 | 2024 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| Biergarten-Treffen | | 8.8.2024 | |
+| WWDC-Keynote | | 10.6.2024 | |
 | “[Swift auf dem Playdate](https://github.com/hydrixos/cocoaheads-le/tree/master/2024/05/Talk.pdf)” | [Rico Becker](https://mastodon.social/@ricobeck) | 16.5.2024 | |
 | “TCA Revisted” | [Markus Müller](https://mastodon.social/@m_mlr) | 8.4.2024 | [Sample Code](https://github.com/mmllr/TalkingHeadsRevisited) |
 | Cocoaheads Remote – Mixed Bag | | 14.3.2024 | |
