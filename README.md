@@ -12,6 +12,7 @@ For information on upcoming meetings:
 
 | 2024 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| “[Swift Testing](https://github.com/hydrixos/cocoaheads-le/tree/master/2024/09/Talk.pdf)” | [Max Seelemann](https://objc.social/@macguru17), [Friedrich Ruynat](https://objc.social/@hdrxs) | 12.9.2024 | |
 | Biergarten-Treffen | | 8.8.2024 | |
 | WWDC-Keynote | | 10.6.2024 | |
 | “[Swift auf dem Playdate](https://github.com/hydrixos/cocoaheads-le/tree/master/2024/05/Talk.pdf)” | [Rico Becker](https://mastodon.social/@ricobeck) | 16.5.2024 | |
