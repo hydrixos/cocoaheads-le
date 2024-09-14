@@ -16,7 +16,7 @@ For information on upcoming meetings:
 | “TCA Revisted” | [Markus Müller](https://mastodon.social/@m_mlr) | 8.4.2024 | [Sample Code](https://github.com/mmllr/TalkingHeadsRevisited) |
 | Cocoaheads Remote – Mixed Bag | | 14.3.2024 | |
 | “Swift auf dem Server mit Vapor“ | Anatol Mayen | 11.1.2024 | |
-| “Swift Concurrency” | [Friedrich Ruynat](https://objc.social/@hdrxs) | 11.1.2024 | |
+| “[Swift Concurrency](https://github.com/hydrixos/cocoaheads-le/tree/master/2024/01/Talk.pdf)” | [Friedrich Ruynat](https://objc.social/@hdrxs) | 11.1.2024 | |
 
 | 2023 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
