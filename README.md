@@ -10,6 +10,10 @@ For information on upcoming meetings:
 
 ## Overview
 
+| 2025 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
+|-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| “[Erste Erfahrungen mit GRDB](https://github.com/hydrixos/cocoaheads-le/tree/master/2025/01/Talk.pdf)” | [Friedrich Ruynat](https://objc.social/@hdrxs) | 9.1.2025 | [Sample Code](2025/01/Demo/) |
+
 | 2024 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
 | “[Erste Erfahrungen mit CKSyncEngine](https://github.com/hydrixos/cocoaheads-le/tree/master/2024/11/Talk.pdf)” | [Friedrich Ruynat](https://objc.social/@hdrxs) | 14.11.2024 | |
