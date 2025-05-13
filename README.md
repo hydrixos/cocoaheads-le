@@ -12,6 +12,7 @@ For information on upcoming meetings:
 
 | 2025 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| “[Shaders in SwiftUI – First steps and impressions](https://github.com/hydrixos/cocoaheads-le/tree/master/2025/04/Talk.pdf)” | [Johannes Jakob](https://mastodon.social/@johjakob) | 10.4.2025 | |
 | “[Erste Erfahrungen mit GRDB](https://github.com/hydrixos/cocoaheads-le/tree/master/2025/01/Talk.pdf)” | [Friedrich Ruynat](https://objc.social/@hdrxs) | 9.1.2025 | [Sample Code](2025/01/Demo/) |
 
 | 2024 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
