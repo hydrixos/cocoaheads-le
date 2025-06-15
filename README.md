@@ -12,7 +12,11 @@ For information on upcoming meetings:
 
 | 2025 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
 |-------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|---------------------------------|
+| “Kollektiver WWDC-Rückblick” | | 12.6.2025 | |
+| “Erste Vibe-Coding Experimente mit Claude, Cursor und Swift UI” | [Max Seelemann](https://objc.social/@macguru17) | 15.5.2025 | |
 | “[Shaders in SwiftUI – First steps and impressions](https://github.com/hydrixos/cocoaheads-le/tree/master/2025/04/Talk.pdf)” | [Johannes Jakob](https://mastodon.social/@johjakob) | 10.4.2025 | |
+| Cocoaheads Remote – Mixed Bag | | 16.3.2025 | |
+| “[„I’ve Been Looking for Freedom“ - From Xcode to Neovim](https://github.com/hydrixos/cocoaheads-le/tree/master/2025/02/Talk.pdf)” | [Markus Müller](https://mastodon.social/@m_mlr) | 13.2.2025 | |
 | “[Erste Erfahrungen mit GRDB](https://github.com/hydrixos/cocoaheads-le/tree/master/2025/01/Talk.pdf)” | [Friedrich Ruynat](https://objc.social/@hdrxs) | 9.1.2025 | [Sample Code](2025/01/Demo/) |
 
 | 2024 <img width="300px"/> | <img width="200px"/> | <img width="100px"/> | |
